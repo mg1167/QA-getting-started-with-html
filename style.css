@@ -1,0 +1,44 @@
+body{
+	font-family: 'Indie Flower', cursive;;
+	background-color: #FFF8DC;
+	padding-right: 10px; 
+	padding-left: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: justify;
+	font-size: 18px;
+}
+
+img{
+	border-radius: 20px;
+}
+
+.principal{
+	font-size: 20px;
+}
+
+.principalline{
+	width: 80%;
+}
+
+.center{
+	text-align: center;
+}
+
+.cognits{
+	font-size: 15px;
+}
+
+.main, .secondary, .third{
+	background-color: #FFFAF0;
+	border-radius: 5px;
+}
+
+.yoshi{
+	width: 400px;
+}
